@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning .NET7
+- 💬 Ask me about .NET Core 3.1
 
 <!--
 **sachindwivedi2020/Sachindwivedi2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
